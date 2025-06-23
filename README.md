@@ -1,12 +1,17 @@
 <p align="center">
-  <img src="https://i.ibb.co/dJ0gpJf1/photo-2025-06-16-12-07-05-7516517596376596504.jpg" alt="VJ-Filter-Bot Logo">
+  <img src="https://envs.sh/Qrq.jpg" alt="chiku-movie-bot Logo">
 </p>
 <h1 align="center">
   VJ FILTER BOT
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Chiku+Movie+Bot!)
 </p>
+
+## About
+This project is based on [OriginalRepoName](https://github.com/VJBots/VJ-FILTER-BOT), licensed under GPL‑2.0.
+
+Modifications by Prince Jha (@princejha-dev) on June 2025.
 
 ## Main Feature 
 <b>
