@@ -2,14 +2,14 @@
   <img src="https://envs.sh/Qrq.jpg" alt="chiku-movie-bot Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  CHIKU MOVIE BOT
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Chiku+Movie+Bot!)
 </p>
 
 ## About
-This project is based on [OriginalRepoName](https://github.com/VJBots/VJ-FILTER-BOT), licensed under GPL‑2.0.
+This project is based on [VJ-FILTER-BOT](https://github.com/VJBots/VJ-FILTER-BOT), licensed under GPL‑2.0.
 
 Modifications by Prince Jha (@princejha-dev) on June 2025.
 
@@ -40,7 +40,7 @@ Modifications by Prince Jha (@princejha-dev) on June 2025.
 
 - Note : You Can Turn On Or Off Every Feature, Just Use Which Feature You Want By Turning It On.
 
-Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Update Regarding Repo.</b>
+Join My <a href='https://telegram.dog/dashing_updates'>Update Channel</a> For More Update Regarding Repo.</b>
 
 ### How To Deploy : [Video Tutorial](https://youtu.be/3SJR7vH2kRo)
 
